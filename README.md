@@ -43,10 +43,6 @@ To run the Movie App locally, follow these steps:
 
 If you would like to contribute to the Movie App, feel free to submit a pull request. Bug reports and feature requests are also welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
 - The Movie App is made possible by the contributions of the open-source community and the availability of movie-related APIs.
